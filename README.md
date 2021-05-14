@@ -8,7 +8,7 @@ This project is a simple Taskmanager.
 	
 ## Technologies
 Project is created with:
-* Python: 3..0.
+* Python: 3.9.0
 * Django: 3.2.2
 * PostgreSQL: 13.2
 * Tailwind: 2.0.1
