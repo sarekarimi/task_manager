@@ -1,13 +1,7 @@
-Language : Python
-Framework : Django
-Database : sqlite3
-CSS framework  : Tailwind
-
-
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+
 
 ## General info
 This project is a simple Taskmanager.
